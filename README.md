@@ -1,6 +1,8 @@
 ### Hello, World. <img src="images/wave.gif" width=20>
 
-I'm Danial. I like writing stuff; be it stories or software. There is something beautiful about bringing ideas to life by scribbling lines on page, or symbols on a screen.
+I'm Danial. I like writing stuff; be it stories or software. There is something
+beautiful about bringing ideas to life by scribbling lines on page, or symbols
+on a screen.
 
 #### <img src="images/coding.webp" width=20 align=center> Stuff I Know <i>&</i> Love
 
